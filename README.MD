@@ -1,11 +1,13 @@
 # Jenkins-SonarQube-Docker
 Despliegue de una aplicacion web en un entorno contenerizado con Docker, a su vez pipeline de CI-CD con trigger en GItHub con Actions y revisiòn de codigo con SonarQube para estandares de calidad. 
 
+
 **
 
 ## Procedimiento de creaciòn de instancia EC2 para servicios, Jenkins, Docker y SonarQube.
 
 **
+
 -Creaciòn tres instancias(Jenkins,SonarQube,Docker), 4gb ram 2 cpus. Ubuntu.
 -Jenkins: Instalacion de Jenkins en su correspondiente instancia EC2.
 -Jenkins: update del sistema, instalacion del openjdk 11, e instalaciòn de Jenkins.
