@@ -31,4 +31,5 @@ asociar a traves de webhooks el repositorio a Jenkins para que cuando
 se ejecuten cambios en el repo, automaticamente se dispare el pipeline.
 
 -Configuracion de Sonarqube
+-Instalacion, configuracion, y asociacion al servicio de Jenkins.
 -Configuracion de Jenkins
