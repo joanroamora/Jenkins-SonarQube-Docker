@@ -29,3 +29,6 @@ systemctl status jenkins
 -Cargar en un repositorio publico en Git nuestro proyecto web, y luego
 asociar a traves de webhooks el repositorio a Jenkins para que cuando 
 se ejecuten cambios en el repo, automaticamente se dispare el pipeline.
+
+-Configuracion de Sonarqube
+-Configuracion de Jenkins
